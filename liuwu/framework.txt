@@ -1,0 +1,18 @@
+
+git 
+
+
+-----------------------------------------------------------------
+web框架：
+	python/Django
+	http://www.runoob.com/django/django-tutorial.html
+	
+前后端交互：
+	post + ajax
+	http://www.cnblogs.com/psklf/p/5542612.html
+
+地图：
+	高德地图
+	key: f35f7ae1b5c3c9880453888d447abed2
+	API：https://lbs.amap.com/api/javascript-api/summary/
+
